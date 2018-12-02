@@ -1,0 +1,27 @@
+h1 {
+    color: blue
+}
+h2 {
+    color: red
+}
+#max1 {
+    color: green ;
+    font-family: 'Sedgwick Ave', cursive;
+    font-size: 40px
+}
+
+.row1 {
+    color: red;
+}
+.row2 {
+    color: black;
+    font-size: 50px
+}
+.row3 {
+    color: black ;
+    font-family: 'Sedgwick Ave', cursive;
+}
+.row4 {
+    color: black ;
+    font-size: 25px
+}
